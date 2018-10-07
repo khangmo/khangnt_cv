@@ -2,7 +2,7 @@
 title: Nguyen Anh Tuan Resume
 description: Curriculum Vitae of tuan@agiletech.vn
 url: 'http://agiletech.vn'
-baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
+baseurl: 'https://khangmo.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 

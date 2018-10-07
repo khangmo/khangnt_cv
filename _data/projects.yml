@@ -1,0 +1,26 @@
+intro: "Opensource projects"
+projects:
+  - project:
+    title: CakePHP Skeleton
+    link: "https://github.com/agiletechvn/app"
+    tagline: "Complete web Skeleton, easy to dev. Build fast, grow solid"
+  - project:
+    title: React Native Starter Kits
+    link: "https://github.com/agiletechvn/ReactNativeStarterKits"
+    tagline: "A starter kit for React Native that aims at high performance to deliver buttery-smooth UI."
+  - project:
+    title: React Native Search Box
+    link: "https://github.com/agiletechvn/react-native-search-box"
+    tagline: "A simple search box with animation, inspired from ios search bar. Lightweight, fast, flexible."
+  - project:
+    title: Google Recapcha V2
+    link: "https://github.com/agiletechvn/Recaptcha"
+    tagline: "CakePHP 3.2+ Easy to integrate google recaptcha v2 to your project."
+  - project:
+    title: Advance Authenticate
+    link: "https://github.com/agiletechvn/authenticate"
+    tagline: "Advance Authenticate for CakePHP 3.x to Prevent Brute Force Attack, Remember login"
+  - project:
+    title: Baokim payment gateway
+    link: "https://github.com/agiletechvn/bao-kim"
+    tagline: "CakePHP 3.x BaoKim payment gateway plugin"

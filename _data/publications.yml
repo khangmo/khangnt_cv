@@ -1,0 +1,14 @@
+intro: "Some publications of me."
+publications:
+  - paper:
+    title: Facebook Developer Circle Hanoi Meetup
+    authors: me
+    conference: https://www.facebook.com/events/160930598009755/
+  - paper:
+    title: Facebook Developer Circle Hanoi Meetup
+    authors: me
+    conference: https://www.facebook.com/events/144339639568606/
+  - paper:
+    title: Youtube programming guide
+    authors: me
+    conference: https://www.youtube.com/channel/UCLEZH8_oOADMPNHDebFZaFA?view_as=subscriber

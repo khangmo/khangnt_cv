@@ -1,0 +1,15 @@
+- education:
+  degree: Bachelor's degree
+  university: Ho Chi Minh University of Technology
+  time: 2007 - 2011
+  details: "Engineering Technology"
+- education:
+  degree: APTECH Certified Network Administrator
+  university: Aprotrain Aptech
+  time: 2007 - 2008
+  details: "Network Administrator"
+- education:
+  degree: Database Administrator
+  university: COMMIT
+  time: 2008 - 2009
+  details: "Oracle Database Administrator 11g"

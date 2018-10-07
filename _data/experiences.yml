@@ -1,0 +1,23 @@
+- experience:
+  role: Founder & Technical Manager
+  time: 2017 - Present
+  company: Agiletech Viet Nam
+  details: "Project leader, Technical manager: 
+<a href='https://facebook.github.io/react-native/' target='_blank'>React Native</a>
+<br>
+<a href='https://cakephp.org/' target='_blank'>CakePHP</a>"
+- experience:
+  role: IT
+  time: 2013/09 - 2017/08
+  company: CGV Vietnam
+  details: "PHP web programming with various framework such as CakePHP, Mobile app"
+- experience:
+  role: Project Manager
+  time: 2012/02 - 2013/05
+  company: FTL
+  details: "Java core, game server"
+- experience:
+  role: Java Developer
+  time: 2011/05 - 2012/01
+  company: FTL
+  details: "Java core, game server"
